@@ -2,8 +2,8 @@
     "name": "duarte139/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "Claudio Alves Duarte Filho",
+            "email": "duarte139@gmail.com"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
